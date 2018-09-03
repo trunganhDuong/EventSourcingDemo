@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DAL\DAL.csproj" />
+    <ProjectReference Include="..\EventSoucing.Repositories.Ship.Domain\EventSoucing.Repositories.Ship.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

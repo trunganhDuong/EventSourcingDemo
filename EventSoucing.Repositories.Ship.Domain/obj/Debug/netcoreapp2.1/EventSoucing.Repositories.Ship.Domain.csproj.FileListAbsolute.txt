@@ -1,0 +1,12 @@
+E:\EventSourcing\EventSoucing.Repositories.Ship.Domain\bin\Debug\netcoreapp2.1\EventSoucing.Repositories.Ship.Domain.deps.json
+E:\EventSourcing\EventSoucing.Repositories.Ship.Domain\bin\Debug\netcoreapp2.1\EventSoucing.Repositories.Ship.Domain.dll
+E:\EventSourcing\EventSoucing.Repositories.Ship.Domain\bin\Debug\netcoreapp2.1\EventSoucing.Repositories.Ship.Domain.pdb
+E:\EventSourcing\EventSoucing.Repositories.Ship.Domain\bin\Debug\netcoreapp2.1\EventSourcing.Models.dll
+E:\EventSourcing\EventSoucing.Repositories.Ship.Domain\bin\Debug\netcoreapp2.1\EventSourcing.Models.pdb
+E:\EventSourcing\EventSoucing.Repositories.Ship.Domain\obj\Debug\netcoreapp2.1\EventSoucing.Repositories.Ship.Domain.csprojAssemblyReference.cache
+E:\EventSourcing\EventSoucing.Repositories.Ship.Domain\obj\Debug\netcoreapp2.1\EventSoucing.Repositories.Ship.Domain.csproj.CoreCompileInputs.cache
+E:\EventSourcing\EventSoucing.Repositories.Ship.Domain\obj\Debug\netcoreapp2.1\EventSoucing.Repositories.Ship.Domain.AssemblyInfoInputs.cache
+E:\EventSourcing\EventSoucing.Repositories.Ship.Domain\obj\Debug\netcoreapp2.1\EventSoucing.Repositories.Ship.Domain.AssemblyInfo.cs
+E:\EventSourcing\EventSoucing.Repositories.Ship.Domain\obj\Debug\netcoreapp2.1\EventSoucing.Repositories.Ship.Domain.csproj.CopyComplete
+E:\EventSourcing\EventSoucing.Repositories.Ship.Domain\obj\Debug\netcoreapp2.1\EventSoucing.Repositories.Ship.Domain.dll
+E:\EventSourcing\EventSoucing.Repositories.Ship.Domain\obj\Debug\netcoreapp2.1\EventSoucing.Repositories.Ship.Domain.pdb

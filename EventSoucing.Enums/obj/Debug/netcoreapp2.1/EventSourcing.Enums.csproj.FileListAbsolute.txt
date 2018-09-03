@@ -1,0 +1,9 @@
+E:\EventSourcing\EventSoucing.Enums\bin\Debug\netcoreapp2.1\EventSourcing.Enums.deps.json
+E:\EventSourcing\EventSoucing.Enums\bin\Debug\netcoreapp2.1\EventSourcing.Enums.dll
+E:\EventSourcing\EventSoucing.Enums\bin\Debug\netcoreapp2.1\EventSourcing.Enums.pdb
+E:\EventSourcing\EventSoucing.Enums\obj\Debug\netcoreapp2.1\EventSourcing.Enums.csprojAssemblyReference.cache
+E:\EventSourcing\EventSoucing.Enums\obj\Debug\netcoreapp2.1\EventSourcing.Enums.csproj.CoreCompileInputs.cache
+E:\EventSourcing\EventSoucing.Enums\obj\Debug\netcoreapp2.1\EventSourcing.Enums.AssemblyInfoInputs.cache
+E:\EventSourcing\EventSoucing.Enums\obj\Debug\netcoreapp2.1\EventSourcing.Enums.AssemblyInfo.cs
+E:\EventSourcing\EventSoucing.Enums\obj\Debug\netcoreapp2.1\EventSourcing.Enums.dll
+E:\EventSourcing\EventSoucing.Enums\obj\Debug\netcoreapp2.1\EventSourcing.Enums.pdb

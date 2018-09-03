@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "EventSoucing.Repositories.Ship.Domain/1.0.0": {
+        "dependencies": {
+          "EventSourcing.Models": "1.0.0"
+        },
+        "runtime": {
+          "EventSoucing.Repositories.Ship.Domain.dll": {}
+        }
+      },
+      "EventSourcing.Models/1.0.0": {
+        "runtime": {
+          "EventSourcing.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EventSoucing.Repositories.Ship.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EventSourcing.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

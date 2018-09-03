@@ -1,0 +1,9 @@
+E:\EventSourcing\EventSourcing.Models\bin\Debug\netcoreapp2.1\EventSourcing.Models.deps.json
+E:\EventSourcing\EventSourcing.Models\bin\Debug\netcoreapp2.1\EventSourcing.Models.dll
+E:\EventSourcing\EventSourcing.Models\bin\Debug\netcoreapp2.1\EventSourcing.Models.pdb
+E:\EventSourcing\EventSourcing.Models\obj\Debug\netcoreapp2.1\EventSourcing.Models.csprojAssemblyReference.cache
+E:\EventSourcing\EventSourcing.Models\obj\Debug\netcoreapp2.1\EventSourcing.Models.csproj.CoreCompileInputs.cache
+E:\EventSourcing\EventSourcing.Models\obj\Debug\netcoreapp2.1\EventSourcing.Models.AssemblyInfoInputs.cache
+E:\EventSourcing\EventSourcing.Models\obj\Debug\netcoreapp2.1\EventSourcing.Models.AssemblyInfo.cs
+E:\EventSourcing\EventSourcing.Models\obj\Debug\netcoreapp2.1\EventSourcing.Models.dll
+E:\EventSourcing\EventSourcing.Models\obj\Debug\netcoreapp2.1\EventSourcing.Models.pdb
